@@ -22,3 +22,17 @@ Key Insights:
 Correlation analysis reveals that Cement and Age have strong relationships with compressive strength.
 Regression modeling identifies significant factors affecting compressive strength.
 Hypothesis tests are conducted to assess the impact of Cement and Fly Ash inclusion on concrete performance.
+
+
+**Task 3: Time Series Modeling for Share Price Forecasting
+Scenario:**
+You are a Data Scientist tasked with forecasting the share price movements of a selected company. For this task, time series analysis is used to model trends and forecast future values of the share price.
+
+**Dataset Used:**
+Share Prices dataset (ATA Creativity Global)
+The dataset includes daily share prices and trading volumes for the company.
+**Key Insights:**
+After decomposing the time series, the trend, seasonality, and residuals are analyzed.
+ARIMA and ETS models are used to forecast future share prices.
+The models' performance is evaluated, and the best model is recommended for forecasting future prices.
+
